@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>UTF-16</comment>
+<entry key="type">ConfigurationElement</entry>
+<entry key="signature-owner">CN=VMWare,OU=VMWare,OU=VMWare,O=VMWare,C=US</entry>
+<entry key="id">20e842d8-387c-46e5-a092-890c4d7f5abc</entry>
+</properties>

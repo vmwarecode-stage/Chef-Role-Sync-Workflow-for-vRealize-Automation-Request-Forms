@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>UTF-16</comment>
+<entry key="vso-build-nb">2289455</entry>
+<entry key="pkg-description">Gets roles from Chef Server and populates vRA Property Definition attribute Value list. The result is you can now keep your Chef Role drop down in the request portal in sync when ever yo make a change on the Chef Server.
+
+For install and configure guide visit www.vmtocloud.com </entry>
+<entry key="pkg-name">org.vmtocloud.vravcacchefrolesync</entry>
+<entry key="used-plugins">REST#1.0.4,vCAC#6.2.0</entry>
+<entry key="pkg-signer">CN=VMWare,OU=VMWare,OU=VMWare,O=VMWare,C=US</entry>
+<entry key="vso-version">6.0.0.2289455 (6.0.0.2289441)</entry>
+<entry key="pkg-owner">CN=VMWare,OU=VMWare,OU=VMWare,O=VMWare,C=US</entry>
+<entry key="pkg-id">ff8080814c90bdbd014c91236cbd00b0</entry>
+</properties>
